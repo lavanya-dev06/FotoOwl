@@ -1,0 +1,62 @@
+{
+  "scenes": [
+    {
+      "image_path": "image_1.jpg",
+      "duration_seconds": 2.0,
+      "caption": "Professional excellence",
+      "transition": "fade",
+      "animation_style": "fade"
+    },
+    {
+      "image_path": "image_2.jpg",
+      "duration_seconds": 2.0,
+      "caption": "Team synergy",
+      "transition": "fade",
+      "animation_style": "fade"
+    },
+    {
+      "image_path": "image_3.jpg",
+      "duration_seconds": 2.0,
+      "caption": "Driving success",
+      "transition": "fade",
+      "animation_style": "fade"
+    },
+    {
+      "image_path": "image_4.jpg",
+      "duration_seconds": 2.0,
+      "caption": "Innovation",
+      "transition": "fade",
+      "animation_style": "fade"
+    },
+    {
+      "image_path": "image_5.jpg",
+      "duration_seconds": 2.0,
+      "caption": "Professional excellence",
+      "transition": "fade",
+      "animation_style": "fade"
+    },
+    {
+      "image_path": "image_6.jpg",
+      "duration_seconds": 2.0,
+      "caption": "Team synergy",
+      "transition": "fade",
+      "animation_style": "fade"
+    },
+    {
+      "image_path": "image_7.jpg",
+      "duration_seconds": 2.0,
+      "caption": "Driving success",
+      "transition": "fade",
+      "animation_style": "fade"
+    },
+    {
+      "image_path": "image_8.jpg",
+      "duration_seconds": 2.0,
+      "caption": "Innovation",
+      "transition": "fade",
+      "animation_style": "fade"
+    }
+  ],
+  "overall_pacing": "medium",
+  "narrative_arc": "A corporate professional journey"
+}

@@ -1,0 +1,62 @@
+{
+  "scenes": [
+    {
+      "image_path": "image_1.jpg",
+      "duration_seconds": 3.0,
+      "caption": "A moment in time",
+      "transition": "fade",
+      "animation_style": "fade"
+    },
+    {
+      "image_path": "image_2.jpg",
+      "duration_seconds": 3.0,
+      "caption": "Forever captured",
+      "transition": "fade",
+      "animation_style": "fade"
+    },
+    {
+      "image_path": "image_3.jpg",
+      "duration_seconds": 3.0,
+      "caption": "Embrace the moment",
+      "transition": "fade",
+      "animation_style": "fade"
+    },
+    {
+      "image_path": "image_4.jpg",
+      "duration_seconds": 3.0,
+      "caption": "Love in focus",
+      "transition": "fade",
+      "animation_style": "fade"
+    },
+    {
+      "image_path": "image_5.jpg",
+      "duration_seconds": 3.0,
+      "caption": "A moment in time",
+      "transition": "fade",
+      "animation_style": "fade"
+    },
+    {
+      "image_path": "image_6.jpg",
+      "duration_seconds": 3.0,
+      "caption": "Forever captured",
+      "transition": "fade",
+      "animation_style": "fade"
+    },
+    {
+      "image_path": "image_7.jpg",
+      "duration_seconds": 3.0,
+      "caption": "Embrace the moment",
+      "transition": "fade",
+      "animation_style": "fade"
+    },
+    {
+      "image_path": "image_8.jpg",
+      "duration_seconds": 3.0,
+      "caption": "Love in focus",
+      "transition": "fade",
+      "animation_style": "fade"
+    }
+  ],
+  "overall_pacing": "slow",
+  "narrative_arc": "A cinematic emotional journey"
+}

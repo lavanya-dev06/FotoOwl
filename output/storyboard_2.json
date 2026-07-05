@@ -1,0 +1,62 @@
+{
+  "scenes": [
+    {
+      "image_path": "image_1.jpg",
+      "duration_seconds": 1.5,
+      "caption": "Let's go!",
+      "transition": "cut",
+      "animation_style": "fade"
+    },
+    {
+      "image_path": "image_2.jpg",
+      "duration_seconds": 1.5,
+      "caption": "Amazing!",
+      "transition": "cut",
+      "animation_style": "fade"
+    },
+    {
+      "image_path": "image_3.jpg",
+      "duration_seconds": 1.5,
+      "caption": "Best day ever!",
+      "transition": "cut",
+      "animation_style": "fade"
+    },
+    {
+      "image_path": "image_4.jpg",
+      "duration_seconds": 1.5,
+      "caption": "So much fun!",
+      "transition": "cut",
+      "animation_style": "fade"
+    },
+    {
+      "image_path": "image_5.jpg",
+      "duration_seconds": 1.5,
+      "caption": "Let's go!",
+      "transition": "cut",
+      "animation_style": "fade"
+    },
+    {
+      "image_path": "image_6.jpg",
+      "duration_seconds": 1.5,
+      "caption": "Amazing!",
+      "transition": "cut",
+      "animation_style": "fade"
+    },
+    {
+      "image_path": "image_7.jpg",
+      "duration_seconds": 1.5,
+      "caption": "Best day ever!",
+      "transition": "cut",
+      "animation_style": "fade"
+    },
+    {
+      "image_path": "image_8.jpg",
+      "duration_seconds": 1.5,
+      "caption": "So much fun!",
+      "transition": "cut",
+      "animation_style": "fade"
+    }
+  ],
+  "overall_pacing": "fast",
+  "narrative_arc": "A upbeat energetic journey"
+}
